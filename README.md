@@ -12,11 +12,9 @@ Para el estilo de la pagina web he seleccionados una triada de colores, dos de e
 >El estilo de Tipo de letra son.
 
 # Prototipos
-Con la herramienta de edicion [Moqups](https://moqups.com) realize prototipos para dar a conocer un poco el concepto que tenia pensado para realizar la web dividiendo la web en cuatro secciones
+Con la herramienta de edicion [Moqups](https://moqups.com) realize prototipos para dar a conocer un poco el concepto que tenia pensado para realizar la web dividiendo la web en cuatro secciones:
 
-
-
-
-#### cuatrovientos
-Estoy aprendiendo **Givhub**
-* [ITC books](https://github.com/luz20026/iaw22-learning-github/blob/main/principal.png)
+* [Pagina principal](https://github.com/luz20026/iaw22-learning-github/blob/main/principal.png)
+* [Eventos](https://github.com/luz20026/iaw22-learning-github/blob/main/secundaria.png)
+* [Contacto](https://github.com/luz20026/iaw22-learning-github/blob/main/contacto.png)
+* [Registro](https://github.com/luz20026/iaw22-learning-github/blob/main/Registro.png)
