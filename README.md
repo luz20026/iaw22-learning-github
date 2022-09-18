@@ -16,5 +16,5 @@ Con la herramienta de edicion [Moqups](https://moqups.com) realize prototipos pa
 
 * [Pagina principal](https://github.com/luz20026/iaw22-learning-github/blob/main/principal.png)
 * [Eventos](https://github.com/luz20026/iaw22-learning-github/blob/main/secundaria.png)
-* [Contacto](https://github.com/luz20026/iaw22-learning-github/blob/main/contacto.png)
-* [Registro](https://github.com/luz20026/iaw22-learning-github/blob/main/Registro.png)
+* [Contacto](https://github.com/luz20026/iaw22-learning-github/blob/main/Contacto.png)
+* [Registro](https://github.com/luz20026/iaw22-learning-github/blob/main/registro.png)
