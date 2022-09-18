@@ -19,4 +19,4 @@ Con la herramienta de edicion [Moqups](https://moqups.com) realize prototipos pa
 
 #### cuatrovientos
 Estoy aprendiendo **Givhub**
-![ITC books](https://github.com/luz20026/iaw22-learning-github/blob/main/principal.png),.
+* [ITC books](https://github.com/luz20026/iaw22-learning-github/blob/main/principal.png)
