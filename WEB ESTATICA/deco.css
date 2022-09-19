@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Sofia');
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+          background-image: url("libreria\ dos.jpg");
+          background-repeat: no-repeat;
+          background-size: cover;
+          background-position: center;
+          background-attachment: fixed;     
+    }
+
+    body:before {
+        content: "";
+        width: 100%;
+        min-height: 380%;
+        position: absolute;
+        top: 3%;
+        left: 0;
+   
+        background:linear-gradient(#a8b1b3, #ffffff) ;
+        opacity: 0.6;
+        z-index: -1;
+  
+        nav{
+            max-width: 100%;
+            margin: auto;
+            background-color: #F2F218;
+            font-size: 20px;
+            margin-top: 0px;
+            font-style: initial;
+        }
+        .menu-horizontal{
+            list-style: none;
+            display: flex;
+            justify-content: space-around;
+        }
+    
+    
+        .menu-horizontal > li > a{
+            display: block;
+            padding: 10px 10px;
+            color: rgba(0, 7, 0, 0.795);
+            text-decoration: none;
+            font-style: initial;
+        }
+    
+        .menu-horizontal > li:hover{
+            background-color: #66660A;
+        }
+ 
+        h1{
+         color: white;
+         font-style:initial;
+         text-align: center;
+         font-size: 10ex;
+     margin-top: 0%;
+     margin-bottom: 0%;
+     text-shadow: 5px 5px 5px black;
+ }
