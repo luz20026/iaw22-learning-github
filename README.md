@@ -3,7 +3,7 @@ En el Instituto Cuatrovientos se ha creado un nuevo aula de descanso para el alu
 Pero desde parte de los alumnos del centro se le ha detectado una pega, ¿Qué va a pasar con todos eso libros en papel que se encontraban en la antigua Biblioteca?
 
 # Propuesta de solucion
-La idea principal para solucionar este problema es desarrollar una pagina web la cual va estar basada en la idea principal de ¡Salvemos a los libros! dicha pagina sera creada para realizar donaciones de libros que ya no sean utilizados pero a la vez sera una tienda la cual vendera los libros que sean donados, de dichas ventas se realizara una recaudacion de fondos para lealizar donaciones a escuelas de bajos recursos, fundaciones de personas discapacitadas y casa hogares.
+La idea principal para solucionar este problema es desarrollar una pagina web la cual va estar basada en la idea principal de ¡Salvemos a los libros! dicha pagina sera creada para realizar donaciones de libros que ya no sean utilizados pero a la vez funcionara como una tienda la cual vendera los libros que sean donados, de dichas ventas se realizara una recaudacion de fondos para lealizar donaciones a escuelas de bajos recursos, fundaciones de personas discapacitadas y casa hogares.
 
 
 # Estilos
@@ -12,7 +12,7 @@ Para el estilo de la pagina web he seleccionados una triada de colores, dos de e
 >El estilo de Tipo de letra son.
 
 # Prototipos
-Con la herramienta de edicion [Moqups](https://moqups.com) realize prototipos para dar a conocer un poco el concepto que tenia pensado para realizar la web dividiendo la web en cuatro secciones:
+Con la herramienta de edicion [Moqups](https://moqups.com) realize prototipos para dar a conocer un poco el concepto que tenia pensado para realizar el diseño de la web, dividiendo la web en cuatro secciones:
 
 * [Pagina principal](https://github.com/luz20026/iaw22-learning-github/blob/main/principal.png)
 * [Eventos](https://github.com/luz20026/iaw22-learning-github/blob/main/secundaria.png)
